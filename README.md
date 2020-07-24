@@ -51,4 +51,4 @@
 [baidu]:http://www.baidu.com
 [test]:test.md
 [链接]:markdown.md#链接
-[学习]:markdown.md#学习
+[学习]:README.md#学习
