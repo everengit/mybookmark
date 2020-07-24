@@ -1,6 +1,6 @@
 # markdown
 ## 语法1
-[学习]
+[学习][链接]
 + 标题
 + 段落  
 段落和段落之间，段落和标题之间加空行。  
@@ -50,5 +50,5 @@
 [百度]:http://www.baidu.com
 [baidu]:http://www.baidu.com
 [test]:test.md
-[链接]:markdown.md#链接
+[链接]:README.md#链接
 [学习]:README.md#学习
